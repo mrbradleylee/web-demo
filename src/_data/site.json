@@ -1,0 +1,17 @@
+{
+    "baseURL": "http://localhost",
+    "author": "Demo",
+    "description": "Demo Node Site",
+    "title": "Micro Focus ADM",
+    "language": "en",
+    "social": [
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/#"
+        },
+        {
+            "title": "LinkedIn",
+            "url": "https://linkedin.com/company/#"
+        }
+    ]
+}
