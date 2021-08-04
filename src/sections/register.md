@@ -1,6 +1,6 @@
 ---
-title: Registration
+title: Stay Informed
 type: register
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi.
+Receive the latest news, events, webinars, videos, and articles, plus best practices that will help you get the most value from your Micro Focus products.

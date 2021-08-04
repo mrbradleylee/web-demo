@@ -1,32 +1,32 @@
 [
-  {
-    "title": "AWE.SOME Feature One",
-    "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Two",
-    "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Three",
-    "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Four",
-    "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Five",
-    "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Six",
-    "icon": "icon6.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  }
+    {
+        "title": "Continuous Planning",
+        "icon": "icon1.svg",
+        "content": "Bridge the gap between strategic goals and the day to day management of work. With increased visibility and alignment, you have the insights to support an outcome-driven approach to software development."
+    },
+    {
+        "title": "Continuous Testing",
+        "icon": "icon2.svg",
+        "content": "Scale your automated tests as part of the software delivery pipeline and obtain immediate feedback on the business risks at every commit, every step or gate and through to production."
+    },
+    {
+        "title": "Continuous Integration",
+        "icon": "icon3.svg",
+        "content": "Plan and control application release processes across your enterprise, from definition to deployment."
+    },
+    {
+        "title": "Continuous Improvement",
+        "icon": "icon4.svg",
+        "content": "Observe trends, identify bottlenecks, find correlations, and detect anomalies in your development cycle, and implement changes that have the desired impact."
+    },
+    {
+        "title": "Continuous Delivery",
+        "icon": "icon5.svg",
+        "content": "Seamlessly enable deployment pipeline automation reducing cycle times and providing rapid feedback on deployments and release across all your environments."
+    },
+    {
+        "title": "Application and Process Modernization",
+        "icon": "icon6.svg",
+        "content": "MModernize trusted core systems and processes to deliver new business value."
+    }
 ]

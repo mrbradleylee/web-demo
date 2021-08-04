@@ -1,6 +1,16 @@
 ---
-title: AWE.SOME Heading
+title: Reliably scale Agile and DevOps across all your environments, from mainframe to cloud.
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+**Deliver IT Value without risk**
+_Re-use trusted IT investments to realize new value_<br><br>
+
+**Deliver better outcomes**
+_Control delivery based on risk, compliance, and quality_<br><br>
+
+**Liberate resources**
+_Test and automate everything at scale_<br><br>
+
+**Boost business confidence**
+_Increase collaboration and stakeholder alignment_
