@@ -1,6 +1,7 @@
 # Demo Node Build
 
 A demonstration node build using 11ty SSG and Tailwind CSS.
+Tailored to Micro Focus ADM Product line.
 
 ## How to use this template
 
